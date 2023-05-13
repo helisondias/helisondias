@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Helison! 👐
+### Olá, seja bem vindo ao meu perfil! 👐
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Helison)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helison_7/)
@@ -7,7 +7,7 @@
 
 ![Helison GitHub stats](https://github-readme-stats.vercel.app/api?username=helisondias&show_icons=true&theme=dark)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu estou aprendendo no meu dia a dia:
 
 <div style='display: inline_block'><br>
     <img align='center' alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
