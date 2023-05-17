@@ -21,3 +21,7 @@
 ## Email para contato:
 
 - ### helisondias7@hotmail.com
+
+</br>
+               <h1> Contador de visitas </h1>
+<p align='center'>  <img alingn='center' src='https://profile-counter.glitch.me/helisondias/count.svg' /></p>
