@@ -20,7 +20,7 @@
 
 ## Email para contato:
 
-- ### helisondias7@hotmail.com
+- ### helisondias07@gmail.com
 
 </br>
                <h1> Contador de visitas </h1>
